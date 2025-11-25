@@ -1,0 +1,21 @@
+{
+  "name": "TTS App",
+  "short_name": "TTS App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1b26",
+  "theme_color": "#1a1b26",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://5p6ektjr8d.ucarecd.net/b6482a06-4416-48fc-affe-2ea3423154e3/Gemini_Generated_Image_drpsxdrpsxdrpsxd.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://5p6ektjr8d.ucarecd.net/b6482a06-4416-48fc-affe-2ea3423154e3/Gemini_Generated_Image_drpsxdrpsxdrpsxd.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
