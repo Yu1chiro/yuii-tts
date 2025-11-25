@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tts-learn';
+const CACHE_NAME = 'tts-learn-1';
 
 // Aset Lokal
 const LOCAL_ASSETS = [
